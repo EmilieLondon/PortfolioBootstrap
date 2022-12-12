@@ -1,5 +1,24 @@
+h3 {
+    display: flex;
+    margin-bottom: 30px;
+    justify-content: center;
+}
+
+.container {
+margin-top: 50px;
+}
+
 .card-body {
     min-height: 150px;
+}
+
+.skills-list {
+    display: flex;
+    justify-content: center;
+}
+
+.list-group {
+width: fit-content;
 }
 
 section.contact-details {
